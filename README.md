@@ -17,10 +17,11 @@ Usage
 Launch the GraphQL API server:
 
 ```sh
+% cd flask
 % python app.py
 ```
 
-Launch the development web server which serves ths static client-side app:
+Launch the development web server which serves the static client-side app:
 
 ```sh
 % npm start
@@ -46,3 +47,8 @@ See package.json for more information.
 * Flask
 * Flask-Cors
 * Flask-GraphQL
+
+Related Work
+------------
+
+* [react-tornado-graphql-example](https://github.com/yatsu/react-tornado-graphql-example)
