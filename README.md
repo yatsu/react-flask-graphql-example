@@ -33,7 +33,7 @@ Frameworks/Libraries
 
 * React
 * Redux
-* react-router and redux-router
+* react-router and react-router-redux
 * Apollo client (GraphQL integration)
 * Semantic-UI-React (CSS framework)
 
